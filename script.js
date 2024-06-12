@@ -51,3 +51,6 @@ function searchBook() {
 
 // Mostrar todos los libros al cargar la página
 displayBooks(books);
+/**
+ COMENTARIO SCRIPT 
+ */
